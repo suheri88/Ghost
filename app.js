@@ -6,7 +6,7 @@ function authenticate() {
         const password = prompt("Masukkan kata sandi:");
 
         // Ganti 'password123' dengan kata sandi yang diinginkan
-        if (password === "XII.3") {
+        if (password === "X.4") {
             // Jika kata sandi benar, lanjutkan ke situs web
             unlockWebsite();
             return; // Keluar dari fungsi setelah kata sandi benar
